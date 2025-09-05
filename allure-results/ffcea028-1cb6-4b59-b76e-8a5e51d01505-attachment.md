@@ -1,0 +1,745 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Enable accessibility" [ref=e3] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=e4] [cursor=pointer]: Enable accessibility
+  - generic [ref=e10]:
+    - generic [ref=e15]:
+      - button "Previous Slide" [ref=e16] [cursor=pointer]:
+        - img [ref=e19] [cursor=pointer]
+      - generic [ref=e21]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: Up to 50% Off Can't-Miss Deals! Prices as Marked.
+          - link "Shop Now" [ref=e26] [cursor=pointer]:
+            - /url: /category?product_special=Brands%20You%20Love&cm_re=global-banner-20250902-cantmissdeals
+        - generic [ref=e28]:
+          - generic [ref=e29]: Up to 25% Off adidas! Prices as Marked.
+          - link "Shop Now" [ref=e31] [cursor=pointer]:
+            - /url: /brands/adidas?cm_re=global-banner-20250902-adidasmap
+        - generic [ref=e33]:
+          - generic [ref=e34]: Up to 50% Off Can't-Miss Deals! Prices as Marked.
+          - link "Shop Now" [ref=e36] [cursor=pointer]:
+            - /url: /category?product_special=Brands%20You%20Love&cm_re=global-banner-20250902-cantmissdeals
+        - generic [ref=e38]:
+          - generic [ref=e39]: Up to 25% Off adidas! Prices as Marked.
+          - link "Shop Now" [ref=e41] [cursor=pointer]:
+            - /url: /brands/adidas?cm_re=global-banner-20250902-adidasmap
+      - button "Next Slide" [ref=e42] [cursor=pointer]:
+        - img [ref=e45] [cursor=pointer]
+    - navigation [ref=e48]:
+      - button "Skip to Main Content" [ref=e49] [cursor=pointer]
+      - generic [ref=e51]:
+        - link "DSW Designer Shoe Warehouse" [ref=e53] [cursor=pointer]:
+          - /url: /
+          - img "DSW Designer Shoe Warehouse" [ref=e54] [cursor=pointer]
+        - search [ref=e56]:
+          - generic [ref=e58]:
+            - textbox "Search DSW" [ref=e59]:
+              - text: Men shoes
+              - generic [ref=e60]:
+                - generic [ref=e61]:
+                  - generic [ref=e62]:
+                    - img [ref=e65]
+                    - heading "Visual Search" [level=6] [ref=e67]
+                    - paragraph [ref=e68]: Upload a screenshot to shop similar styles
+                    - button "Try it out" [ref=e69] [cursor=pointer]
+                  - listbox [ref=e72]:
+                    - option "Men shoes" [ref=e73] [cursor=pointer]:
+                      - generic [ref=e74] [cursor=pointer]: Men shoes
+                - generic [ref=e76]:
+                  - generic [ref=e77]:
+                    - heading "Top results for ″Men shoes″" [level=4] [ref=e78]
+                    - generic [ref=e79] [cursor=pointer]: View All
+                  - generic [ref=e80]:
+                    - link "Brooks Brooks Ghost 16 Running Shoe - Men's" [ref=e83] [cursor=pointer]:
+                      - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=240
+                      - img "Brooks" [ref=e86] [cursor=pointer]
+                      - paragraph [ref=e88] [cursor=pointer]: Brooks Ghost 16 Running Shoe - Men's
+                    - link "New Balance New Balance 608 V5 Training Shoe - Men's" [ref=e91] [cursor=pointer]:
+                      - /url: /product/new-balance-608-v5-training-shoe---mens/432275?activeColor=115
+                      - img "New Balance" [ref=e94] [cursor=pointer]
+                      - paragraph [ref=e96] [cursor=pointer]: New Balance 608 V5 Training Shoe - Men's
+                    - link "Brooks Brooks Ghost 16 Running Shoe - Men's" [ref=e99] [cursor=pointer]:
+                      - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=130
+                      - img "Brooks" [ref=e102] [cursor=pointer]
+                      - paragraph [ref=e104] [cursor=pointer]: Brooks Ghost 16 Running Shoe - Men's
+                    - link "New Balance New Balance 460 v4 Running Shoe - Men's" [ref=e107] [cursor=pointer]:
+                      - /url: /product/new-balance-460-v4-running-shoe---mens/585694?activeColor=001
+                      - img "New Balance" [ref=e110] [cursor=pointer]
+                      - paragraph [ref=e112] [cursor=pointer]: New Balance 460 v4 Running Shoe - Men's
+                    - link "Brooks Brooks Ghost 16 Running Shoe - Men's" [ref=e115] [cursor=pointer]:
+                      - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=090
+                      - img "Brooks" [ref=e118] [cursor=pointer]
+                      - paragraph [ref=e120] [cursor=pointer]: Brooks Ghost 16 Running Shoe - Men's
+                    - link "Hi-Tec Hi-Tec Mauna Hiking Shoe - Men's" [ref=e123] [cursor=pointer]:
+                      - /url: /product/hi-tec-mauna-hiking-shoe---mens/576886?activeColor=002
+                      - img "Hi-Tec" [ref=e126] [cursor=pointer]
+                      - paragraph [ref=e128] [cursor=pointer]: Hi-Tec Mauna Hiking Shoe - Men's
+                    - link "adidas adidas Ultraboost 5X Running Shoe - Men's" [ref=e131] [cursor=pointer]:
+                      - /url: /product/adidas-ultraboost-5x-running-shoe---mens/606450?activeColor=033
+                      - img "adidas" [ref=e134] [cursor=pointer]
+                      - paragraph [ref=e136] [cursor=pointer]: adidas Ultraboost 5X Running Shoe - Men's
+                    - link "Brooks Brooks Revel 7 Running Shoe - Men's" [ref=e139] [cursor=pointer]:
+                      - /url: /product/brooks-revel-7-running-shoe---mens/577658?activeColor=072
+                      - img "Brooks" [ref=e142] [cursor=pointer]
+                      - paragraph [ref=e144] [cursor=pointer]: Brooks Revel 7 Running Shoe - Men's
+                    - link "New Balance New Balance 608 V5 Training Shoe - Men's" [ref=e147] [cursor=pointer]:
+                      - /url: /product/new-balance-608-v5-training-shoe---mens/432274?activeColor=001
+                      - img "New Balance" [ref=e150] [cursor=pointer]
+                      - paragraph [ref=e152] [cursor=pointer]: New Balance 608 V5 Training Shoe - Men's
+                    - link "ASICS ASICS GEL-Excite 10 Running Shoe - Men's" [ref=e155] [cursor=pointer]:
+                      - /url: /product/asics-gel-excite-10-running-shoe---mens/565890?activeColor=003
+                      - img "ASICS" [ref=e158] [cursor=pointer]
+                      - paragraph [ref=e160] [cursor=pointer]: ASICS GEL-Excite 10 Running Shoe - Men's
+            - button "Clear search input" [ref=e162] [cursor=pointer]:
+              - img [ref=e165] [cursor=pointer]
+        - button "Clay" [ref=e171] [cursor=pointer]:
+          - img [ref=e174] [cursor=pointer]
+          - generic [ref=e176] [cursor=pointer]: Clay
+        - button "Greenwich Place" [ref=e177] [cursor=pointer]:
+          - img [ref=e180] [cursor=pointer]
+          - generic [ref=e182] [cursor=pointer]: Greenwich Place
+        - link "Bag" [ref=e183] [cursor=pointer]:
+          - /url: /shopping-bag
+          - generic [ref=e184] [cursor=pointer]: "5"
+          - img [ref=e187] [cursor=pointer]
+          - generic [ref=e189] [cursor=pointer]: Bag
+      - navigation [ref=e193]:
+        - button "Women" [ref=e194] [cursor=pointer]
+        - button "Men" [ref=e195] [cursor=pointer]
+        - button "Kids" [ref=e196] [cursor=pointer]
+        - button "Athletic & Sneakers" [ref=e197] [cursor=pointer]
+        - button "Accessories" [ref=e198] [cursor=pointer]
+        - link "New" [ref=e199] [cursor=pointer]:
+          - /url: /category/new?cm_xm=nav-newarrivals
+        - button "Brands" [ref=e200] [cursor=pointer]
+        - link "Lookbook 🍂" [ref=e201] [cursor=pointer]:
+          - /url: /content/lookbook?cm_re=nav-falllookbook
+        - button "Clearance" [ref=e202] [cursor=pointer]
+        - link "Deals" [ref=e203] [cursor=pointer]:
+          - /url: /content/coupons-and-promo-codes?cm_xm=nav-dswdealsnav
+      - generic [ref=e209]:
+        - generic [ref=e210]:
+          - generic [ref=e214]:
+            - generic [ref=e215]: Go for Gold!
+            - paragraph [ref=e217]: You’re only $200 from the Gold
+            - generic [ref=e220]:
+              - generic [ref=e221]: Club
+              - generic [ref=e222]: Gold
+          - generic [ref=e227] [cursor=pointer]:
+            - img "Up to 50% Off Can't-Miss Deals" [ref=e230] [cursor=pointer]
+            - generic [ref=e231] [cursor=pointer]:
+              - generic [ref=e232] [cursor=pointer]: Up to 50% Off Can't-Miss Deals
+              - paragraph [ref=e235] [cursor=pointer]: Prices as marked.
+          - generic [ref=e239] [cursor=pointer]:
+            - img "Up To 25% off Select adidas Styles" [ref=e242] [cursor=pointer]
+            - generic [ref=e243] [cursor=pointer]:
+              - generic [ref=e244] [cursor=pointer]: Up To 25% off Select adidas Styles
+              - paragraph [ref=e247] [cursor=pointer]: Prices as marked. Valid through 9/4.
+          - generic [ref=e251] [cursor=pointer]:
+            - img "Up to 25% off Select Reebok Styles" [ref=e254] [cursor=pointer]
+            - generic [ref=e255] [cursor=pointer]:
+              - generic [ref=e256] [cursor=pointer]: Up to 25% off Select Reebok Styles
+              - paragraph [ref=e259] [cursor=pointer]: Prices as marked. Valid through 9/5.
+          - generic [ref=e263] [cursor=pointer]:
+            - img "Select Brooks Styles Under $100" [ref=e266] [cursor=pointer]
+            - generic [ref=e267] [cursor=pointer]:
+              - generic [ref=e268] [cursor=pointer]: Select Brooks Styles Under $100
+              - paragraph [ref=e271] [cursor=pointer]: Prices as marked. Valid through 10/1.
+          - generic [ref=e275] [cursor=pointer]:
+            - img "20% off Select PUMA Styles" [ref=e278] [cursor=pointer]
+            - generic [ref=e279] [cursor=pointer]:
+              - generic [ref=e280] [cursor=pointer]: 20% off Select PUMA Styles
+              - paragraph [ref=e283] [cursor=pointer]: Prices as marked. Valid through 9/6.
+          - generic [ref=e287] [cursor=pointer]:
+            - img "40% Off Select In Store Backpacks & Hydration Products" [ref=e290] [cursor=pointer]
+            - generic [ref=e291] [cursor=pointer]:
+              - generic [ref=e292] [cursor=pointer]: 40% Off Select In Store Backpacks & Hydration Products
+              - paragraph [ref=e295] [cursor=pointer]: Prices as marked. Valid through 9/7.
+          - generic [ref=e299] [cursor=pointer]:
+            - img "Free Shipping" [ref=e302] [cursor=pointer]
+            - generic [ref=e303] [cursor=pointer]:
+              - generic [ref=e304] [cursor=pointer]: Free Shipping
+              - paragraph [ref=e307] [cursor=pointer]: Exclusively for VIP Club members.
+            - img [ref=e311] [cursor=pointer]
+        - button "Next Slide" [ref=e313] [cursor=pointer]:
+          - img [ref=e316] [cursor=pointer]
+    - main [ref=e318]:
+      - generic [ref=e321]:
+        - generic [ref=e322]:
+          - generic [ref=e323]:
+            - img [ref=e326]
+            - heading "Filters" [level=2] [ref=e328]
+            - button "Clear filters" [ref=e329] [cursor=pointer]
+          - generic [ref=e331]:
+            - generic [ref=e332]:
+              - generic [ref=e335]:
+                - checkbox
+              - generic [ref=e337]:
+                - text: Pickup at
+                - link "Greenwich Place" [ref=e338] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e339]: Get it fast with in-store pickup
+          - generic [ref=e341]:
+            - generic [ref=e343]:
+              - checkbox "Gender" [ref=e344]
+              - img [ref=e348]
+              - heading "Gender" [level=4] [ref=e352] [cursor=pointer]
+            - generic [ref=e354]:
+              - checkbox "Size" [ref=e355]
+              - img [ref=e359]
+              - heading "Size" [level=4] [ref=e363] [cursor=pointer]
+            - generic [ref=e365]:
+              - checkbox "Sort Featured" [ref=e366]
+              - img [ref=e370]
+              - generic [ref=e372] [cursor=pointer]:
+                - heading "Sort" [level=4] [ref=e374] [cursor=pointer]
+                - generic [ref=e375] [cursor=pointer]: Featured
+            - generic [ref=e377]:
+              - checkbox "Width" [ref=e378]
+              - img [ref=e382]
+              - heading "Width" [level=4] [ref=e386] [cursor=pointer]
+            - generic [ref=e388]:
+              - checkbox "Color" [ref=e389]
+              - img [ref=e393]
+              - heading "Color" [level=4] [ref=e397] [cursor=pointer]
+            - generic [ref=e399]:
+              - checkbox "Brand" [ref=e400]
+              - img [ref=e404]
+              - heading "Brand" [level=4] [ref=e408] [cursor=pointer]
+            - generic [ref=e410]:
+              - checkbox "Style" [ref=e411]
+              - img [ref=e415]
+              - heading "Style" [level=4] [ref=e419] [cursor=pointer]
+            - generic [ref=e421]:
+              - checkbox "Heel Height" [ref=e422]
+              - img [ref=e426]
+              - heading "Heel Height" [level=4] [ref=e430] [cursor=pointer]
+            - generic [ref=e432]:
+              - checkbox "Shaft Height" [ref=e433]
+              - img [ref=e437]
+              - heading "Shaft Height" [level=4] [ref=e441] [cursor=pointer]
+            - generic [ref=e443]:
+              - checkbox "Toe Shape" [ref=e444]
+              - img [ref=e448]
+              - heading "Toe Shape" [level=4] [ref=e452] [cursor=pointer]
+            - generic [ref=e454]:
+              - checkbox "Occasion" [ref=e455]
+              - img [ref=e459]
+              - heading "Occasion" [level=4] [ref=e463] [cursor=pointer]
+            - generic [ref=e465]:
+              - checkbox "Feature" [ref=e466]
+              - img [ref=e470]
+              - heading "Feature" [level=4] [ref=e474] [cursor=pointer]
+            - generic [ref=e476]:
+              - checkbox "Price" [ref=e477]
+              - img [ref=e481]
+              - heading "Price" [level=4] [ref=e485] [cursor=pointer]
+            - generic [ref=e487]:
+              - checkbox "Trend" [ref=e488]
+              - img [ref=e492]
+              - heading "Trend" [level=4] [ref=e496] [cursor=pointer]
+        - generic [ref=e497]:
+          - generic [ref=e499]:
+            - generic [ref=e501]:
+              - heading "Men Shoes" [level=1] [ref=e504]
+              - generic [ref=e505]:
+                - generic [ref=e506]: 5267 Results
+                - generic [ref=e508]:
+                  - combobox "Sort By" [ref=e509]:
+                    - 'option "Sort: Featured" [selected]'
+                    - option "Newest"
+                    - option "Top Rated"
+                    - option "Best Seller"
+                    - option "Price Low to High"
+                    - option "Price High to Low"
+                  - generic:
+                    - generic:
+                      - img
+            - generic [ref=e510]:
+              - generic [ref=e512]:
+                - generic [ref=e516]: Clearance
+                - button [ref=e518] [cursor=pointer]:
+                  - img [ref=e521] [cursor=pointer]
+                - link "product image" [ref=e524] [cursor=pointer]:
+                  - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=240
+                  - img "product image" [ref=e527] [cursor=pointer]
+                - generic [ref=e528]:
+                  - generic [ref=e529]:
+                    - generic [ref=e530]:
+                      - button "Ghost 16 Running Shoe - Men's Taupe view Selected" [ref=e533] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's Taupe view" [ref=e534] [cursor=pointer]
+                        - generic [ref=e535] [cursor=pointer]: Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e538] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e539] [cursor=pointer]
+                        - generic [ref=e540] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e543] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e544] [cursor=pointer]
+                        - generic [ref=e545] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e548] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e549] [cursor=pointer]
+                        - generic [ref=e550] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e553] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e554] [cursor=pointer]
+                        - generic [ref=e555] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e558] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e559] [cursor=pointer]
+                        - generic [ref=e560] [cursor=pointer]: Not Selected
+                    - img [ref=e564] [cursor=pointer]
+                  - link "Brooks Ghost 16 Running Shoe - Men's Minimum Clearance Price $99.98 $99.98 ★★★★★ ★★★★★ (960)" [ref=e566] [cursor=pointer]:
+                    - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=240
+                    - heading "Brooks Ghost 16 Running Shoe - Men's" [level=3] [ref=e567] [cursor=pointer]:
+                      - generic [ref=e568] [cursor=pointer]: Brooks Ghost 16 Running Shoe - Men's
+                    - generic [ref=e569] [cursor=pointer]:
+                      - generic [ref=e572] [cursor=pointer]:
+                        - generic [ref=e573] [cursor=pointer]: Minimum Clearance Price $99.98
+                        - text: $99.98
+                      - generic [ref=e576] [cursor=pointer]:
+                        - generic [ref=e577] [cursor=pointer]:
+                          - generic [ref=e578] [cursor=pointer]: ★★★★★
+                          - generic [ref=e579] [cursor=pointer]: ★★★★★
+                        - generic [ref=e581] [cursor=pointer]: (960)
+                  - button "Quick Add" [ref=e583] [cursor=pointer]
+              - generic [ref=e585]:
+                - generic [ref=e589]: Top Rated
+                - button [ref=e591] [cursor=pointer]:
+                  - img [ref=e594] [cursor=pointer]
+                - link "product image" [ref=e597] [cursor=pointer]:
+                  - /url: /product/hi-tec-mauna-hiking-shoe---mens/576886?activeColor=002
+                  - img "product image" [ref=e600] [cursor=pointer]
+                - generic [ref=e601]:
+                  - generic [ref=e603]:
+                    - button "Mauna Hiking Shoe - Men's Black view Selected" [ref=e606] [cursor=pointer]:
+                      - img "Mauna Hiking Shoe - Men's Black view" [ref=e607] [cursor=pointer]
+                      - generic [ref=e608] [cursor=pointer]: Selected
+                    - button "Mauna Hiking Shoe - Men's Dark Brown/Black view Not Selected" [ref=e611] [cursor=pointer]:
+                      - img "Mauna Hiking Shoe - Men's Dark Brown/Black view" [ref=e612] [cursor=pointer]
+                      - generic [ref=e613] [cursor=pointer]: Not Selected
+                    - button "Mauna Hiking Shoe - Men's Navy view Not Selected" [ref=e616] [cursor=pointer]:
+                      - img "Mauna Hiking Shoe - Men's Navy view" [ref=e617] [cursor=pointer]
+                      - generic [ref=e618] [cursor=pointer]: Not Selected
+                  - link "Hi-Tec Mauna Hiking Shoe - Men's Now $59.99 ★★★★★ ★★★★★ (60)" [ref=e619] [cursor=pointer]:
+                    - /url: /product/hi-tec-mauna-hiking-shoe---mens/576886?activeColor=002
+                    - heading "Hi-Tec Mauna Hiking Shoe - Men's" [level=3] [ref=e620] [cursor=pointer]:
+                      - generic [ref=e621] [cursor=pointer]: Hi-Tec Mauna Hiking Shoe - Men's
+                    - generic [ref=e622] [cursor=pointer]:
+                      - generic [ref=e625] [cursor=pointer]: Now $59.99
+                      - generic [ref=e628] [cursor=pointer]:
+                        - generic [ref=e629] [cursor=pointer]:
+                          - generic [ref=e630] [cursor=pointer]: ★★★★★
+                          - generic [ref=e631] [cursor=pointer]: ★★★★★
+                        - generic [ref=e633] [cursor=pointer]: (60)
+                  - button "Quick Add" [ref=e635] [cursor=pointer]
+              - generic [ref=e637]:
+                - button [ref=e639] [cursor=pointer]:
+                  - img [ref=e642] [cursor=pointer]
+                - link "product image" [ref=e645] [cursor=pointer]:
+                  - /url: /product/brooks-trace-4-running-shoe---mens/587294?activeColor=049
+                  - img "product image" [ref=e648] [cursor=pointer]
+                - generic [ref=e649]:
+                  - generic [ref=e650]:
+                    - generic [ref=e651]:
+                      - button "Trace 4 Running Shoe - Men's Black/Olive Green view Not Selected" [ref=e654] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's Black/Olive Green view" [ref=e655] [cursor=pointer]
+                        - generic [ref=e656] [cursor=pointer]: Not Selected
+                      - button "Trace 4 Running Shoe - Men's Grey/Black view Selected" [ref=e659] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's Grey/Black view" [ref=e660] [cursor=pointer]
+                        - generic [ref=e661] [cursor=pointer]: Selected
+                      - button "Trace 4 Running Shoe - Men's Black/Blue view Not Selected" [ref=e664] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's Black/Blue view" [ref=e665] [cursor=pointer]
+                        - generic [ref=e666] [cursor=pointer]: Not Selected
+                      - button "Trace 4 Running Shoe - Men's Black/White view Not Selected" [ref=e669] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's Black/White view" [ref=e670] [cursor=pointer]
+                        - generic [ref=e671] [cursor=pointer]: Not Selected
+                      - button "Trace 4 Running Shoe - Men's White/Black view Not Selected" [ref=e674] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's White/Black view" [ref=e675] [cursor=pointer]
+                        - generic [ref=e676] [cursor=pointer]: Not Selected
+                      - button "Trace 4 Running Shoe - Men's Navy view Not Selected" [ref=e679] [cursor=pointer]:
+                        - img "Trace 4 Running Shoe - Men's Navy view" [ref=e680] [cursor=pointer]
+                        - generic [ref=e681] [cursor=pointer]: Not Selected
+                    - img [ref=e685] [cursor=pointer]
+                  - link "Sponsored Brooks Trace 4 Running Shoe - Men's $99.96 ★★★★★ ★★★★★ (32)" [ref=e687] [cursor=pointer]:
+                    - /url: /product/brooks-trace-4-running-shoe---mens/587294?activeColor=049
+                    - generic [ref=e689] [cursor=pointer]: Sponsored
+                    - heading "Brooks Trace 4 Running Shoe - Men's" [level=3] [ref=e690] [cursor=pointer]:
+                      - generic [ref=e691] [cursor=pointer]: Brooks Trace 4 Running Shoe - Men's
+                    - generic [ref=e692] [cursor=pointer]:
+                      - generic [ref=e695] [cursor=pointer]: $99.96
+                      - generic [ref=e698] [cursor=pointer]:
+                        - generic [ref=e699] [cursor=pointer]:
+                          - generic [ref=e700] [cursor=pointer]: ★★★★★
+                          - generic [ref=e701] [cursor=pointer]: ★★★★★
+                        - generic [ref=e703] [cursor=pointer]: (32)
+                  - button "Quick Add" [ref=e705] [cursor=pointer]
+              - generic [ref=e707]:
+                - button [ref=e709] [cursor=pointer]:
+                  - img [ref=e712] [cursor=pointer]
+                - link "product image" [ref=e715] [cursor=pointer]:
+                  - /url: /product/brooks-adrenaline-gts-24-running-shoe---mens/587278?activeColor=087
+                  - img "product image" [ref=e718] [cursor=pointer]
+                - generic [ref=e719]:
+                  - generic [ref=e720]:
+                    - generic [ref=e721]:
+                      - button "Adrenaline GTS 24 Running Shoe - Men's Black/Orange view Not Selected" [ref=e724] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's Black/Orange view" [ref=e725] [cursor=pointer]
+                        - generic [ref=e726] [cursor=pointer]: Not Selected
+                      - button "Adrenaline GTS 24 Running Shoe - Men's Black view Not Selected" [ref=e729] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's Black view" [ref=e730] [cursor=pointer]
+                        - generic [ref=e731] [cursor=pointer]: Not Selected
+                      - button "Adrenaline GTS 24 Running Shoe - Men's Grey view Not Selected" [ref=e734] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's Grey view" [ref=e735] [cursor=pointer]
+                        - generic [ref=e736] [cursor=pointer]: Not Selected
+                      - button "Adrenaline GTS 24 Running Shoe - Men's Black/White view Selected" [ref=e739] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's Black/White view" [ref=e740] [cursor=pointer]
+                        - generic [ref=e741] [cursor=pointer]: Selected
+                      - button "Adrenaline GTS 24 Running Shoe - Men's White view Not Selected" [ref=e744] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's White view" [ref=e745] [cursor=pointer]
+                        - generic [ref=e746] [cursor=pointer]: Not Selected
+                      - button "Adrenaline GTS 24 Running Shoe - Men's White/Black Speckled view Not Selected" [ref=e749] [cursor=pointer]:
+                        - img "Adrenaline GTS 24 Running Shoe - Men's White/Black Speckled view" [ref=e750] [cursor=pointer]
+                        - generic [ref=e751] [cursor=pointer]: Not Selected
+                    - img [ref=e755] [cursor=pointer]
+                  - link "Sponsored Brooks Adrenaline GTS 24 Running Shoe - Men's $139.96 ★★★★★ ★★★★★ (32)" [ref=e757] [cursor=pointer]:
+                    - /url: /product/brooks-adrenaline-gts-24-running-shoe---mens/587278?activeColor=087
+                    - generic [ref=e759] [cursor=pointer]: Sponsored
+                    - heading "Brooks Adrenaline GTS 24 Running Shoe - Men's" [level=3] [ref=e760] [cursor=pointer]:
+                      - generic [ref=e761] [cursor=pointer]: Brooks Adrenaline GTS 24 Running Shoe - Men's
+                    - generic [ref=e762] [cursor=pointer]:
+                      - generic [ref=e765] [cursor=pointer]: $139.96
+                      - generic [ref=e768] [cursor=pointer]:
+                        - generic [ref=e769] [cursor=pointer]:
+                          - generic [ref=e770] [cursor=pointer]: ★★★★★
+                          - generic [ref=e771] [cursor=pointer]: ★★★★★
+                        - generic [ref=e773] [cursor=pointer]: (32)
+                  - button "Quick Add" [ref=e775] [cursor=pointer]
+              - generic [ref=e777]:
+                - generic [ref=e781]: Clearance
+                - button [ref=e783] [cursor=pointer]:
+                  - img [ref=e786] [cursor=pointer]
+                - link "product image" [ref=e789] [cursor=pointer]:
+                  - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=130
+                  - img "product image" [ref=e792] [cursor=pointer]
+                - generic [ref=e793]:
+                  - generic [ref=e794]:
+                    - generic [ref=e795]:
+                      - button "Ghost 16 Running Shoe - Men's White/Blue view Selected" [ref=e798] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's White/Blue view" [ref=e799] [cursor=pointer]
+                        - generic [ref=e800] [cursor=pointer]: Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e803] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e804] [cursor=pointer]
+                        - generic [ref=e805] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e808] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e809] [cursor=pointer]
+                        - generic [ref=e810] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e813] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e814] [cursor=pointer]
+                        - generic [ref=e815] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e818] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e819] [cursor=pointer]
+                        - generic [ref=e820] [cursor=pointer]: Not Selected
+                      - button "Ghost 16 Running Shoe - Men's view Not Selected" [ref=e823] [cursor=pointer]:
+                        - img "Ghost 16 Running Shoe - Men's view" [ref=e824] [cursor=pointer]
+                        - generic [ref=e825] [cursor=pointer]: Not Selected
+                    - img [ref=e829] [cursor=pointer]
+                  - link "Brooks Ghost 16 Running Shoe - Men's Minimum Clearance Price $99.98 $99.98 ★★★★★ ★★★★★ (960)" [ref=e831] [cursor=pointer]:
+                    - /url: /product/brooks-ghost-16-running-shoe---mens/577422?activeColor=130
+                    - heading "Brooks Ghost 16 Running Shoe - Men's" [level=3] [ref=e832] [cursor=pointer]:
+                      - generic [ref=e833] [cursor=pointer]: Brooks Ghost 16 Running Shoe - Men's
+                    - generic [ref=e834] [cursor=pointer]:
+                      - generic [ref=e837] [cursor=pointer]:
+                        - generic [ref=e838] [cursor=pointer]: Minimum Clearance Price $99.98
+                        - text: $99.98
+                      - generic [ref=e841] [cursor=pointer]:
+                        - generic [ref=e842] [cursor=pointer]:
+                          - generic [ref=e843] [cursor=pointer]: ★★★★★
+                          - generic [ref=e844] [cursor=pointer]: ★★★★★
+                        - generic [ref=e846] [cursor=pointer]: (960)
+                  - button "Quick Add" [ref=e848] [cursor=pointer]
+              - generic [ref=e850]:
+                - generic [ref=e854]: Top Rated
+                - button [ref=e856] [cursor=pointer]:
+                  - img [ref=e859] [cursor=pointer]
+                - link "product image" [ref=e862] [cursor=pointer]:
+                  - /url: /product/crown-vintage-thoren-sneaker---mens/571098?activeColor=002
+                  - img "product image" [ref=e865] [cursor=pointer]
+                - generic [ref=e866]:
+                  - generic [ref=e868]:
+                    - button "Thoren Sneaker - Men's Black view Selected" [ref=e871] [cursor=pointer]:
+                      - img "Thoren Sneaker - Men's Black view" [ref=e872] [cursor=pointer]
+                      - generic [ref=e873] [cursor=pointer]: Selected
+                    - button "Thoren Sneaker - Men's Cognac view Not Selected" [ref=e876] [cursor=pointer]:
+                      - img "Thoren Sneaker - Men's Cognac view" [ref=e877] [cursor=pointer]
+                      - generic [ref=e878] [cursor=pointer]: Not Selected
+                    - button "Thoren Sneaker - Men's Navy view Not Selected" [ref=e881] [cursor=pointer]:
+                      - img "Thoren Sneaker - Men's Navy view" [ref=e882] [cursor=pointer]
+                      - generic [ref=e883] [cursor=pointer]: Not Selected
+                  - link "Crown Vintage Thoren Sneaker - Men's Now $59.99 ★★★★★ ★★★★★ (71)" [ref=e884] [cursor=pointer]:
+                    - /url: /product/crown-vintage-thoren-sneaker---mens/571098?activeColor=002
+                    - heading "Crown Vintage Thoren Sneaker - Men's" [level=3] [ref=e885] [cursor=pointer]:
+                      - generic [ref=e886] [cursor=pointer]: Crown Vintage Thoren Sneaker - Men's
+                    - generic [ref=e887] [cursor=pointer]:
+                      - generic [ref=e890] [cursor=pointer]: Now $59.99
+                      - generic [ref=e893] [cursor=pointer]:
+                        - generic [ref=e894] [cursor=pointer]:
+                          - generic [ref=e895] [cursor=pointer]: ★★★★★
+                          - generic [ref=e896] [cursor=pointer]: ★★★★★
+                        - generic [ref=e898] [cursor=pointer]: (71)
+                  - button "Quick Add" [ref=e900] [cursor=pointer]
+              - generic [ref=e902]:
+                - generic [ref=e906]: Top Rated
+                - button [ref=e908] [cursor=pointer]:
+                  - img [ref=e911] [cursor=pointer]
+                - link "product image" [ref=e914] [cursor=pointer]:
+                  - /url: /product/birkenstock-boston-clog---mens/499207?activeColor=200
+                  - img "product image" [ref=e917] [cursor=pointer]
+                - generic [ref=e918]:
+                  - generic [ref=e920]:
+                    - button "Boston Clog - Men's Dark Brown view Selected" [ref=e923] [cursor=pointer]:
+                      - img "Boston Clog - Men's Dark Brown view" [ref=e924] [cursor=pointer]
+                      - generic [ref=e925] [cursor=pointer]: Selected
+                    - button "Boston Clog - Men's Taupe view Not Selected" [ref=e928] [cursor=pointer]:
+                      - img "Boston Clog - Men's Taupe view" [ref=e929] [cursor=pointer]
+                      - generic [ref=e930] [cursor=pointer]: Not Selected
+                  - link "Birkenstock Boston Clog - Men's $169.96 ★★★★★ ★★★★★ (90)" [ref=e931] [cursor=pointer]:
+                    - /url: /product/birkenstock-boston-clog---mens/499207?activeColor=200
+                    - heading "Birkenstock Boston Clog - Men's" [level=3] [ref=e932] [cursor=pointer]:
+                      - generic [ref=e933] [cursor=pointer]: Birkenstock Boston Clog - Men's
+                    - generic [ref=e934] [cursor=pointer]:
+                      - generic [ref=e937] [cursor=pointer]: $169.96
+                      - generic [ref=e940] [cursor=pointer]:
+                        - generic [ref=e941] [cursor=pointer]:
+                          - generic [ref=e942] [cursor=pointer]: ★★★★★
+                          - generic [ref=e943] [cursor=pointer]: ★★★★★
+                        - generic [ref=e945] [cursor=pointer]: (90)
+                  - button "Quick Add" [ref=e947] [cursor=pointer]
+              - generic [ref=e949]:
+                - generic [ref=e953]: Top Rated
+                - button [ref=e955] [cursor=pointer]:
+                  - img [ref=e958] [cursor=pointer]
+                - link "product image" [ref=e961] [cursor=pointer]:
+                  - /url: /product/new-balance-608-v5-training-shoe---mens/432275?activeColor=115
+                  - img "product image" [ref=e964] [cursor=pointer]
+                - generic [ref=e965]:
+                  - generic [ref=e967]:
+                    - button "608 V5 Training Shoe - Men's White/Navy view Selected" [ref=e970] [cursor=pointer]:
+                      - img "608 V5 Training Shoe - Men's White/Navy view" [ref=e971] [cursor=pointer]
+                      - generic [ref=e972] [cursor=pointer]: Selected
+                    - button "608 V5 Training Shoe - Men's view Not Selected" [ref=e975] [cursor=pointer]:
+                      - img "608 V5 Training Shoe - Men's view" [ref=e976] [cursor=pointer]
+                      - generic [ref=e977] [cursor=pointer]: Not Selected
+                  - link "New Balance 608 V5 Training Shoe - Men's Now $64.99 ★★★★★ ★★★★★ (3286)" [ref=e978] [cursor=pointer]:
+                    - /url: /product/new-balance-608-v5-training-shoe---mens/432275?activeColor=115
+                    - heading "New Balance 608 V5 Training Shoe - Men's" [level=3] [ref=e979] [cursor=pointer]:
+                      - generic [ref=e980] [cursor=pointer]: New Balance 608 V5 Training Shoe - Men's
+                    - generic [ref=e981] [cursor=pointer]:
+                      - generic [ref=e984] [cursor=pointer]: Now $64.99
+                      - generic [ref=e987] [cursor=pointer]:
+                        - generic [ref=e988] [cursor=pointer]:
+                          - generic [ref=e989] [cursor=pointer]: ★★★★★
+                          - generic [ref=e990] [cursor=pointer]: ★★★★★
+                        - generic [ref=e992] [cursor=pointer]: (3286)
+                  - button "Quick Add" [ref=e994] [cursor=pointer]
+          - list "Pagination" [ref=e1052]:
+            - listitem:
+              - link "Go To Previous Page" [disabled] [ref=e1053]:
+                - /url: "#"
+                - img [ref=e1056]
+            - listitem:
+              - link "Go To Page 1" [ref=e1058]:
+                - /url: "#"
+                - text: "1"
+            - listitem:
+              - link "Go To Page 2" [ref=e1059] [cursor=pointer]:
+                - /url: "#"
+                - text: "2"
+            - listitem:
+              - link "Go To Page 3" [ref=e1060] [cursor=pointer]:
+                - /url: "#"
+                - text: "3"
+            - listitem:
+              - link "Go To Page 4" [ref=e1061] [cursor=pointer]:
+                - /url: "#"
+                - text: "4"
+            - listitem:
+              - link "Go To Page 5" [ref=e1062] [cursor=pointer]:
+                - /url: "#"
+                - text: "5"
+            - listitem:
+              - link "Go To Page ..." [ref=e1063] [cursor=pointer]:
+                - /url: "#"
+                - text: ...
+            - listitem:
+              - link "Go To Page 88" [ref=e1064] [cursor=pointer]:
+                - /url: "#"
+                - text: "88"
+            - listitem:
+              - link "Go To Next Page" [ref=e1065] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e1068] [cursor=pointer]
+    - generic [ref=e1075]:
+      - button "Back To Top" [ref=e1077] [cursor=pointer]:
+        - img [ref=e1080] [cursor=pointer]
+        - generic [ref=e1082] [cursor=pointer]: Back To Top
+      - generic [ref=e1083]:
+        - generic [ref=e1084]:
+          - generic [ref=e1087]:
+            - generic [ref=e1088]:
+              - generic [ref=e1089]: Customer Support
+              - generic [ref=e1090]:
+                - link "Email Us" [ref=e1091] [cursor=pointer]:
+                  - /url: mailto:CUSTOMERSERVICE@DSW.COM
+                - button "Order Status" [ref=e1092] [cursor=pointer]
+                - link "Returns & Exchanges" [ref=e1093] [cursor=pointer]:
+                  - /url: /content/return-and-exchange-policy
+                - link "1.866.379.7463" [ref=e1094] [cursor=pointer]:
+                  - /url: tel:+18663797463
+                - button "Store Finder" [ref=e1095] [cursor=pointer]
+                - link "Customer Service" [ref=e1096] [cursor=pointer]:
+                  - /url: /customer-service
+            - generic [ref=e1097]:
+              - generic [ref=e1098]: Account
+              - generic [ref=e1099]:
+                - link "Log In" [ref=e1100] [cursor=pointer]:
+                  - /url: /sign-in
+                - link "Create an Account" [ref=e1101] [cursor=pointer]:
+                  - /url: /create-account
+                - link "My Orders" [ref=e1102] [cursor=pointer]:
+                  - /url: /order-history
+                - link "DSW VIP" [ref=e1103] [cursor=pointer]:
+                  - /url: /vip
+                - link "DSW Rewards" [ref=e1104] [cursor=pointer]:
+                  - /url: /vip
+                - link "Gift Cards" [ref=e1105] [cursor=pointer]:
+                  - /url: https://giftcards.dsw.com/
+            - generic [ref=e1106]:
+              - generic [ref=e1107]: About DSW
+              - generic [ref=e1108]:
+                - link "Careers" [ref=e1109] [cursor=pointer]:
+                  - /url: https://www.designerbrands.com/careers/
+                - link "Designer Brands Inc." [ref=e1110] [cursor=pointer]:
+                  - /url: https://www.designerbrands.com/
+                - link "Student Discount" [ref=e1111] [cursor=pointer]:
+                  - /url: /student-discount
+                - link "Military & Veteran's Discount" [ref=e1112] [cursor=pointer]:
+                  - /url: /military-discount
+                - link "Philanthropy" [ref=e1113] [cursor=pointer]:
+                  - /url: /content/dsw-foundation
+                - link "Goddess Maintenance Co." [ref=e1114] [cursor=pointer]:
+                  - /url: /content/goddess-maintenance-co
+                - link "Shoe Repair" [ref=e1115] [cursor=pointer]:
+                  - /url: /content/shoe-repair
+                - link "Fashion & Resource" [ref=e1116] [cursor=pointer]:
+                  - /url: /content/shoe-guides
+            - generic [ref=e1117]:
+              - generic [ref=e1118]: Shop
+              - generic [ref=e1119]:
+                - link "Shoes" [ref=e1120] [cursor=pointer]:
+                  - /url: /category/shoes
+                - link "Slides" [ref=e1121] [cursor=pointer]:
+                  - /url: /category/shoes/sandals/slides
+                - link "Platform Boots" [ref=e1122] [cursor=pointer]:
+                  - /url: /category/shoes/boots/platform
+                - link "Slippers" [ref=e1123] [cursor=pointer]:
+                  - /url: /category/shoes/slippers
+                - link "Boots" [ref=e1124] [cursor=pointer]:
+                  - /url: /category/shoes/boots
+                - link "Sandals" [ref=e1125] [cursor=pointer]:
+                  - /url: /category/shoes/sandals
+                - link "Running Shoes" [ref=e1126] [cursor=pointer]:
+                  - /url: /category/shoes/athletic-sneakers/running
+                - link "Sneakers" [ref=e1127] [cursor=pointer]:
+                  - /url: /category/shoes/athletic-sneakers
+                - link "Rain Boots" [ref=e1128] [cursor=pointer]:
+                  - /url: /category/shoes/boots/rain
+                - link "Chelsea Boots" [ref=e1129] [cursor=pointer]:
+                  - /url: /category/shoes/boots/chelsea
+                - link "Dress Shoes" [ref=e1130] [cursor=pointer]:
+                  - /url: /category/shoes/dress
+                - link "Cowboy Boots" [ref=e1131] [cursor=pointer]:
+                  - /url: /category/shoes/boots/cowboy-western
+                - link "Heels" [ref=e1132] [cursor=pointer]:
+                  - /url: /category/womens/shoes/heels
+                - link "Work & Safety" [ref=e1133] [cursor=pointer]:
+                  - /url: /category/shoes/work-safety
+                - link "Clearance" [ref=e1134] [cursor=pointer]:
+                  - /url: /category/clearance
+          - generic [ref=e1135]:
+            - generic [ref=e1137]:
+              - heading "Let Us Surprise You" [level=3] [ref=e1138]
+              - list [ref=e1139]:
+                - listitem [ref=e1140]:
+                  - link "instagram" [ref=e1141] [cursor=pointer]:
+                    - /url: https://www.instagram.com/dsw
+                    - img [ref=e1144] [cursor=pointer]
+                - listitem [ref=e1146]:
+                  - link "facebook" [ref=e1147] [cursor=pointer]:
+                    - /url: https://www.facebook.com/DSW
+                    - img [ref=e1150] [cursor=pointer]
+                - listitem [ref=e1152]:
+                  - link "tiktok" [ref=e1153] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dsw
+                    - img [ref=e1156] [cursor=pointer]
+                - listitem [ref=e1158]:
+                  - link "pinterest" [ref=e1159] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/DSW/
+                    - img [ref=e1162] [cursor=pointer]
+                - listitem [ref=e1164]:
+                  - link "youtube" [ref=e1165] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@dswshoewarehouse
+                    - img [ref=e1168] [cursor=pointer]
+            - generic [ref=e1171]:
+              - generic [ref=e1172]:
+                - heading "Sign Up For Emails & Get 10% Off!*" [level=5] [ref=e1173]
+                - paragraph [ref=e1174]:
+                  - generic [ref=e1175]: "*First-time subscribers only. Returning subscribers will be resubscribed for marketing/promo emails."
+                  - link "Details" [ref=e1176] [cursor=pointer]:
+                    - /url: /legal/legal-pricing
+              - generic [ref=e1180]:
+                - textbox "Enter your email address..." [ref=e1184]
+                - button "Submit" [ref=e1185] [cursor=pointer]
+            - generic [ref=e1187]:
+              - heading "Download the App" [level=5] [ref=e1188]
+              - generic [ref=e1189]:
+                - link [ref=e1190] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/dsw-designer-shoe-warehouse/id918263528
+                  - img [ref=e1193] [cursor=pointer]
+                - link [ref=e1195] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.dsw.android
+                  - img [ref=e1198] [cursor=pointer]
+        - generic [ref=e1202]:
+          - generic [ref=e1204]: © 2025 Designer Brands. All rights reserved
+          - generic [ref=e1205]:
+            - link "Privacy Policy" [ref=e1206] [cursor=pointer]:
+              - /url: /legal/privacy-policy
+            - link "California Privacy Notice" [ref=e1207] [cursor=pointer]:
+              - /url: /legal/california-privacy-notice
+            - link "Terms of Use" [ref=e1208] [cursor=pointer]:
+              - /url: /legal/web-terms
+            - link "Supply Chain Transparency" [ref=e1209] [cursor=pointer]:
+              - /url: /legal/sc-transparency
+            - link "Your Privacy Choices" [ref=e1210] [cursor=pointer]:
+              - /url: https://privacyportal.onetrust.com/webform/fcf6afab-e522-49e8-91df-3c3ee4c0e5b4/4fc16981-3656-433e-a131-7ba21def1ac9
+              - img [ref=e1213] [cursor=pointer]
+              - text: Your Privacy Choices
+            - link "Accessibility Statement" [ref=e1215] [cursor=pointer]:
+              - /url: /accessibility
+            - link "Comp. Value Details" [ref=e1216] [cursor=pointer]:
+              - /url: /legal/compare-at
+            - link "Pricing & Exclusions" [ref=e1217] [cursor=pointer]:
+              - /url: /legal/legal-pricing
+            - generic [ref=e1218] [cursor=pointer]: Cookie Preferences
+  - button "Feedback" [ref=e1219] [cursor=pointer]:
+    - generic [ref=e1221] [cursor=pointer]: Feedback
+  - iframe [ref=e1222]:
+    - region "Sign Up via Text for Offers — DSW" [ref=f1e3]:
+      - main "Get 15% Off" [ref=f1e4]:
+        - generic [ref=f1e5]:
+          - button "Get 15% Off" [ref=f1e6] [cursor=pointer]:
+            - generic [ref=f1e7] [cursor=pointer]:
+              - generic [ref=f1e8] [cursor=pointer]: Get 15% Off
+              - generic [ref=f1e9] [cursor=pointer]: Use the button in the Sign Up via Text for Offers — DSW region.
+          - button "Dismiss this popup" [ref=f1e10] [cursor=pointer]:
+            - img [ref=f1e11] [cursor=pointer]
+```

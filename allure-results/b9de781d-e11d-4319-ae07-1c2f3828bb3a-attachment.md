@@ -1,0 +1,318 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Enable accessibility" [ref=e3] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=e4] [cursor=pointer]: Enable accessibility
+  - generic [ref=e10]:
+    - generic [ref=e15]:
+      - button "Previous Slide" [ref=e16] [cursor=pointer]:
+        - img [ref=e19] [cursor=pointer]
+      - generic [ref=e21]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: Up to 50% Off Can't-Miss Deals! Prices as Marked.
+          - link "Shop Now" [ref=e26] [cursor=pointer]:
+            - /url: /category?product_special=Brands%20You%20Love&cm_re=global-banner-20250902-cantmissdeals
+        - generic [ref=e28]:
+          - generic [ref=e29]: Up to 25% Off adidas! Prices as Marked.
+          - link "Shop Now" [ref=e31] [cursor=pointer]:
+            - /url: /brands/adidas?cm_re=global-banner-20250902-adidasmap
+        - generic [ref=e33]:
+          - generic [ref=e34]: Up to 50% Off Can't-Miss Deals! Prices as Marked.
+          - link "Shop Now" [ref=e36] [cursor=pointer]:
+            - /url: /category?product_special=Brands%20You%20Love&cm_re=global-banner-20250902-cantmissdeals
+        - generic [ref=e38]:
+          - generic [ref=e39]: Up to 25% Off adidas! Prices as Marked.
+          - link "Shop Now" [ref=e41] [cursor=pointer]:
+            - /url: /brands/adidas?cm_re=global-banner-20250902-adidasmap
+      - button "Next Slide" [ref=e42] [cursor=pointer]:
+        - img [ref=e45] [cursor=pointer]
+    - navigation [ref=e48]:
+      - button "Skip to Main Content" [ref=e49] [cursor=pointer]
+      - generic [ref=e51]:
+        - link "DSW Designer Shoe Warehouse" [ref=e53] [cursor=pointer]:
+          - /url: /
+          - img "DSW Designer Shoe Warehouse" [ref=e54] [cursor=pointer]
+        - search [ref=e56]:
+          - generic [ref=e58]:
+            - textbox "Search DSW" [ref=e59]
+            - img [ref=e62]
+            - button "Visual search" [ref=e64] [cursor=pointer]:
+              - img [ref=e67] [cursor=pointer]
+        - button "Sign In" [ref=e72] [cursor=pointer]:
+          - img [ref=e75] [cursor=pointer]
+          - generic [ref=e77] [cursor=pointer]: Sign In
+        - button "Greenwich Place" [ref=e78] [cursor=pointer]:
+          - img [ref=e81] [cursor=pointer]
+          - generic [ref=e83] [cursor=pointer]: Greenwich Place
+        - link "Bag" [ref=e84] [cursor=pointer]:
+          - /url: /shopping-bag
+          - img [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]: Bag
+      - navigation [ref=e93]:
+        - button "Women" [ref=e94] [cursor=pointer]
+        - button "Men" [ref=e95] [cursor=pointer]
+        - button "Kids" [ref=e96] [cursor=pointer]
+        - button "Athletic & Sneakers" [ref=e97] [cursor=pointer]
+        - button "Accessories" [ref=e98] [cursor=pointer]
+        - link "New" [ref=e99] [cursor=pointer]:
+          - /url: /category/new?cm_xm=nav-newarrivals
+        - button "Brands" [ref=e100] [cursor=pointer]
+        - link "Lookbook 🍂" [ref=e101] [cursor=pointer]:
+          - /url: /content/lookbook?cm_re=nav-falllookbook
+        - button "Clearance" [ref=e102] [cursor=pointer]
+        - link "Deals" [ref=e103] [cursor=pointer]:
+          - /url: /content/coupons-and-promo-codes?cm_xm=nav-dswdealsnav
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e114]:
+            - img "Get Free Shipping & 20% Off!" [ref=e117]
+            - generic [ref=e118]:
+              - generic [ref=e119]: Get Free Shipping & 20% Off!
+              - paragraph [ref=e122]:
+                - link "Create an Account" [ref=e123] [cursor=pointer]:
+                  - /url: https://www.dsw.com/create-account
+                - text: or
+                - link "Sign In" [ref=e124] [cursor=pointer]:
+                  - /url: https://www.dsw.com/sign-in
+                - text: to access all your savings & perks!
+          - generic [ref=e128] [cursor=pointer]:
+            - img "Up to 50% Off Can't-Miss Deals" [ref=e131] [cursor=pointer]
+            - generic [ref=e132] [cursor=pointer]:
+              - generic [ref=e133] [cursor=pointer]: Up to 50% Off Can't-Miss Deals
+              - paragraph [ref=e136] [cursor=pointer]: Prices as marked.
+          - generic [ref=e140] [cursor=pointer]:
+            - img "Up To 25% off Select adidas Styles" [ref=e143] [cursor=pointer]
+            - generic [ref=e144] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Up To 25% off Select adidas Styles
+              - paragraph [ref=e148] [cursor=pointer]: Prices as marked. Valid through 9/4.
+          - generic [ref=e152] [cursor=pointer]:
+            - img "Up to 25% off Select Reebok Styles" [ref=e155] [cursor=pointer]
+            - generic [ref=e156] [cursor=pointer]:
+              - generic [ref=e157] [cursor=pointer]: Up to 25% off Select Reebok Styles
+              - paragraph [ref=e160] [cursor=pointer]: Prices as marked. Valid through 9/5.
+          - generic [ref=e164] [cursor=pointer]:
+            - img "Select Brooks Styles Under $100" [ref=e167] [cursor=pointer]
+            - generic [ref=e168] [cursor=pointer]:
+              - generic [ref=e169] [cursor=pointer]: Select Brooks Styles Under $100
+              - paragraph [ref=e172] [cursor=pointer]: Prices as marked. Valid through 10/1.
+          - generic [ref=e176] [cursor=pointer]:
+            - img "20% off Select PUMA Styles" [ref=e179] [cursor=pointer]
+            - generic [ref=e180] [cursor=pointer]:
+              - generic [ref=e181] [cursor=pointer]: 20% off Select PUMA Styles
+              - paragraph [ref=e184] [cursor=pointer]: Prices as marked. Valid through 9/6.
+          - generic [ref=e188] [cursor=pointer]:
+            - img "40% Off Select In Store Backpacks & Hydration Products" [ref=e191] [cursor=pointer]
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: 40% Off Select In Store Backpacks & Hydration Products
+              - paragraph [ref=e196] [cursor=pointer]: Prices as marked. Valid through 9/7.
+          - generic [ref=e200] [cursor=pointer]:
+            - img "Free Shipping On Orders Of 75+" [ref=e203] [cursor=pointer]
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e205] [cursor=pointer]: Free Shipping On Orders Of 75+
+              - paragraph [ref=e208] [cursor=pointer]: "Use code: FREESHIP"
+            - img [ref=e212] [cursor=pointer]
+        - button "Next Slide" [ref=e214] [cursor=pointer]:
+          - img [ref=e217] [cursor=pointer]
+    - main [ref=e219]:
+      - generic [ref=e224]:
+        - generic [ref=e226]:
+          - heading "Sign In" [level=3] [ref=e227]
+          - generic [ref=e228]: Sign in to access your DSW VIP account and rewards.
+          - generic [ref=e229]:
+            - generic [ref=e231]:
+              - textbox "Email" [ref=e232]: subhankhan2468@gmail.com
+              - generic: Email
+            - generic [ref=e235]:
+              - generic [ref=e237]:
+                - textbox "Password" [ref=e238]: Shannu9989!
+                - generic:
+                  - generic:
+                    - generic: Password
+              - img [ref=e241]
+              - button "protection toggle" [ref=e243] [cursor=pointer]:
+                - img "eye" [ref=e244] [cursor=pointer]
+            - generic [ref=e245]:
+              - link "Forgot Password?" [ref=e247] [cursor=pointer]:
+                - /url: "#"
+              - generic [ref=e249]:
+                - generic [ref=e250]: Please contact Customer Service at 866-379-7463 (866.DSW.SHOES) for assistance with your "Login" email address.
+                - tooltip [ref=e251]:
+                  - link [ref=e252] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Forgot Email?
+                  - text: Please contact Customer Service at 866-379-7463 (866.DSW.SHOES) for assistance with your "Login" email address.
+            - button "Sign In" [disabled] [ref=e254] [cursor=pointer]
+        - generic [ref=e259]:
+          - img [ref=e263]
+          - heading "Join DSW VIP For Free!" [level=3] [ref=e265]
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - img [ref=e270]
+              - generic [ref=e272]: Free shipping on anything
+            - generic [ref=e273]:
+              - img [ref=e276]
+              - generic [ref=e278]: 5% back in rewards
+            - generic [ref=e279]:
+              - img [ref=e282]
+              - generic [ref=e284]: Birthday gift every year
+            - generic [ref=e285]:
+              - img [ref=e288]
+              - generic [ref=e290]: Exclusive rewards and offers
+          - button "Create Account" [ref=e291] [cursor=pointer]
+    - generic [ref=e293]:
+      - button "Back To Top" [ref=e295] [cursor=pointer]:
+        - img [ref=e298] [cursor=pointer]
+        - generic [ref=e300] [cursor=pointer]: Back To Top
+      - generic [ref=e301]:
+        - generic [ref=e302]:
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: Customer Support
+              - generic [ref=e308]:
+                - link "Email Us" [ref=e309] [cursor=pointer]:
+                  - /url: mailto:CUSTOMERSERVICE@DSW.COM
+                - button "Order Status" [ref=e310] [cursor=pointer]
+                - link "Returns & Exchanges" [ref=e311] [cursor=pointer]:
+                  - /url: /content/return-and-exchange-policy
+                - link "1.866.379.7463" [ref=e312] [cursor=pointer]:
+                  - /url: tel:+18663797463
+                - button "Store Finder" [ref=e313] [cursor=pointer]
+                - link "Customer Service" [ref=e314] [cursor=pointer]:
+                  - /url: /customer-service
+            - generic [ref=e315]:
+              - generic [ref=e316]: Account
+              - generic [ref=e317]:
+                - link "Log In" [ref=e318] [cursor=pointer]:
+                  - /url: /sign-in
+                - link "Create an Account" [ref=e319] [cursor=pointer]:
+                  - /url: /create-account
+                - link "My Orders" [ref=e320] [cursor=pointer]:
+                  - /url: /order-history
+                - link "DSW VIP" [ref=e321] [cursor=pointer]:
+                  - /url: /vip
+                - link "DSW Rewards" [ref=e322] [cursor=pointer]:
+                  - /url: /vip
+                - link "Gift Cards" [ref=e323] [cursor=pointer]:
+                  - /url: https://giftcards.dsw.com/
+            - generic [ref=e324]:
+              - generic [ref=e325]: About DSW
+              - generic [ref=e326]:
+                - link "Careers" [ref=e327] [cursor=pointer]:
+                  - /url: https://www.designerbrands.com/careers/
+                - link "Designer Brands Inc." [ref=e328] [cursor=pointer]:
+                  - /url: https://www.designerbrands.com/
+                - link "Student Discount" [ref=e329] [cursor=pointer]:
+                  - /url: /student-discount
+                - link "Military & Veteran's Discount" [ref=e330] [cursor=pointer]:
+                  - /url: /military-discount
+                - link "Philanthropy" [ref=e331] [cursor=pointer]:
+                  - /url: /content/dsw-foundation
+                - link "Goddess Maintenance Co." [ref=e332] [cursor=pointer]:
+                  - /url: /content/goddess-maintenance-co
+                - link "Shoe Repair" [ref=e333] [cursor=pointer]:
+                  - /url: /content/shoe-repair
+                - link "Fashion & Resource" [ref=e334] [cursor=pointer]:
+                  - /url: /content/shoe-guides
+            - generic [ref=e335]:
+              - generic [ref=e336]: Shop
+              - generic [ref=e337]:
+                - link "Shoes" [ref=e338] [cursor=pointer]:
+                  - /url: /category/shoes
+                - link "Slides" [ref=e339] [cursor=pointer]:
+                  - /url: /category/shoes/sandals/slides
+                - link "Platform Boots" [ref=e340] [cursor=pointer]:
+                  - /url: /category/shoes/boots/platform
+                - link "Slippers" [ref=e341] [cursor=pointer]:
+                  - /url: /category/shoes/slippers
+                - link "Boots" [ref=e342] [cursor=pointer]:
+                  - /url: /category/shoes/boots
+                - link "Sandals" [ref=e343] [cursor=pointer]:
+                  - /url: /category/shoes/sandals
+                - link "Running Shoes" [ref=e344] [cursor=pointer]:
+                  - /url: /category/shoes/athletic-sneakers/running
+                - link "Sneakers" [ref=e345] [cursor=pointer]:
+                  - /url: /category/shoes/athletic-sneakers
+                - link "Rain Boots" [ref=e346] [cursor=pointer]:
+                  - /url: /category/shoes/boots/rain
+                - link "Chelsea Boots" [ref=e347] [cursor=pointer]:
+                  - /url: /category/shoes/boots/chelsea
+                - link "Dress Shoes" [ref=e348] [cursor=pointer]:
+                  - /url: /category/shoes/dress
+                - link "Cowboy Boots" [ref=e349] [cursor=pointer]:
+                  - /url: /category/shoes/boots/cowboy-western
+                - link "Heels" [ref=e350] [cursor=pointer]:
+                  - /url: /category/womens/shoes/heels
+                - link "Work & Safety" [ref=e351] [cursor=pointer]:
+                  - /url: /category/shoes/work-safety
+                - link "Clearance" [ref=e352] [cursor=pointer]:
+                  - /url: /category/clearance
+          - generic [ref=e353]:
+            - generic [ref=e355]:
+              - heading "Let Us Surprise You" [level=3] [ref=e356]
+              - list [ref=e357]:
+                - listitem [ref=e358]:
+                  - link "instagram" [ref=e359] [cursor=pointer]:
+                    - /url: https://www.instagram.com/dsw
+                    - img [ref=e362] [cursor=pointer]
+                - listitem [ref=e364]:
+                  - link "facebook" [ref=e365] [cursor=pointer]:
+                    - /url: https://www.facebook.com/DSW
+                    - img [ref=e368] [cursor=pointer]
+                - listitem [ref=e370]:
+                  - link "tiktok" [ref=e371] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dsw
+                    - img [ref=e374] [cursor=pointer]
+                - listitem [ref=e376]:
+                  - link "pinterest" [ref=e377] [cursor=pointer]:
+                    - /url: https://www.pinterest.com/DSW/
+                    - img [ref=e380] [cursor=pointer]
+                - listitem [ref=e382]:
+                  - link "youtube" [ref=e383] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@dswshoewarehouse
+                    - img [ref=e386] [cursor=pointer]
+            - generic [ref=e389]:
+              - generic [ref=e390]:
+                - heading "Sign Up For Emails & Get 10% Off!*" [level=5] [ref=e391]
+                - paragraph [ref=e392]:
+                  - generic [ref=e393]: "*First-time subscribers only. Returning subscribers will be resubscribed for marketing/promo emails."
+                  - link "Details" [ref=e394] [cursor=pointer]:
+                    - /url: /legal/legal-pricing
+              - generic [ref=e398]:
+                - textbox "Enter your email address..." [ref=e402]
+                - button "Submit" [ref=e403] [cursor=pointer]
+            - generic [ref=e405]:
+              - heading "Download the App" [level=5] [ref=e406]
+              - generic [ref=e407]:
+                - link [ref=e408] [cursor=pointer]:
+                  - /url: https://apps.apple.com/us/app/dsw-designer-shoe-warehouse/id918263528
+                  - img [ref=e411] [cursor=pointer]
+                - link [ref=e413] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.dsw.android
+                  - img [ref=e416] [cursor=pointer]
+        - generic [ref=e420]:
+          - generic [ref=e422]: © 2025 Designer Brands. All rights reserved
+          - generic [ref=e423]:
+            - link "Privacy Policy" [ref=e424] [cursor=pointer]:
+              - /url: /legal/privacy-policy
+            - link "California Privacy Notice" [ref=e425] [cursor=pointer]:
+              - /url: /legal/california-privacy-notice
+            - link "Terms of Use" [ref=e426] [cursor=pointer]:
+              - /url: /legal/web-terms
+            - link "Supply Chain Transparency" [ref=e427] [cursor=pointer]:
+              - /url: /legal/sc-transparency
+            - link "Your Privacy Choices" [ref=e428] [cursor=pointer]:
+              - /url: https://privacyportal.onetrust.com/webform/fcf6afab-e522-49e8-91df-3c3ee4c0e5b4/4fc16981-3656-433e-a131-7ba21def1ac9
+              - img [ref=e431] [cursor=pointer]
+              - text: Your Privacy Choices
+            - link "Accessibility Statement" [ref=e433] [cursor=pointer]:
+              - /url: /accessibility
+            - link "Comp. Value Details" [ref=e434] [cursor=pointer]:
+              - /url: /legal/compare-at
+            - link "Pricing & Exclusions" [ref=e435] [cursor=pointer]:
+              - /url: /legal/legal-pricing
+            - generic [ref=e436] [cursor=pointer]: Cookie Preferences
+  - button "Feedback" [ref=e437] [cursor=pointer]:
+    - generic [ref=e439] [cursor=pointer]: Feedback
+```
