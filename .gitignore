@@ -3,5 +3,6 @@ test-results/
 playwright-report/
 allure-report/
 ms-playwright/
+allure-results/
 
 
