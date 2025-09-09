@@ -10,6 +10,8 @@ import { on } from 'events';
 // import path from 'path';
 // dotenv.config({ path: path.resolve(__dirname, '.env') });
 
+const isCI = !!process.env.CI; 
+
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
@@ -39,8 +41,10 @@ export default defineConfig({
     screenshot:"only-on-failure",
     video:"on",
 
-    headless: false,
-    slowMo: 500,
+    headless: isCI,          // 👈 Headless only in CI
+    slowMo: isCI ? 0 : 500,  // 👈 SlowMo only locally
+    viewport: { width: 1280, height: 720 },
+    ignoreHTTPSErrors: true,
   },
 
   /* Configure projects for major browsers */
