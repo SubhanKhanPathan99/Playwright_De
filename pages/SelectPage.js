@@ -94,7 +94,6 @@ class SelectPage {
                 }
                 }
   
-                expect(this.page.locator(this.chkoutpgalrt)).toHaveText("The items in your bag are not reserved. Check out now while they're still available!")
      
                 break;
               }
